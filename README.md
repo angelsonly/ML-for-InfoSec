@@ -12,4 +12,4 @@ Troubleshooting. Simplest way - to remove everything and install once again by t
 
 $ conda remove -y -n ML-for-InforSec --all
 
-$conda clean --all
+$ conda clean --all
