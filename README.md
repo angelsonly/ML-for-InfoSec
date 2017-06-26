@@ -38,7 +38,7 @@ activate ML-for-InfoSec
 
 Check that your prompt changed to
 
-(ztdl) $
+ML-for-InfoSec $
 
 Launch Jupyter Notebook 
 
@@ -59,6 +59,22 @@ Houston we are go!
 You are all set!
 
 
+To remove the environment:
+
+close the browser and go back to your terminal
+
+stop jupyter notebook (CTRL-C)
+
+deactivate the environment (Mac/Linux):
+
+
+source deactivate
+
+
+deactivate the environment (Windows 10):
+
+
+deactivate ML-for-InfoSec
 
 
 
