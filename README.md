@@ -53,7 +53,7 @@ Run the Check environment Notebook
 
 Go to the course folder, open the notebook Check_Environment.ipynb and run it. If you see the message:
 
-Houston we are go!
+Here we go!
 
 
 You are all set!
