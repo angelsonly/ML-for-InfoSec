@@ -12,7 +12,7 @@ If you have previous versions of OS go ahaead and upgrade and then follow those 
 
 Clone this repository on your local computer
 
-git clone https://github.com/angelsonly/ML-for-InfoSec.git
+$git clone https://github.com/angelsonly/ML-for-InfoSec.git
 
 Download and Install Anaconda Python 3.6 from their official webpage
 
@@ -20,21 +20,21 @@ https://www.continuum.io/downloads
 
 Change to course folder
 
-cd ML-for-InfoSec
+$cd ML-for-InfoSec
 
 Create the course environment
 
-conda env create
+$conda env create
 
 wait for the environment to create.
 
 Activate the environment (Mac/Linux)
 
-source activate ML-for-InfoSec
+$source activate ML-for-InfoSec
 
 Activate the environment (Windows)
 
-activate ML-for-InfoSec
+$activate ML-for-InfoSec
 
 Check that your prompt changed to
 
@@ -42,7 +42,7 @@ ML-for-InfoSec $
 
 Launch Jupyter Notebook 
 
-jupyter notebook
+$jupyter notebook
 
 Open your browser to
 
@@ -68,13 +68,13 @@ stop jupyter notebook (CTRL-C)
 deactivate the environment (Mac/Linux):
 
 
-source deactivate
+$ source deactivate
 
 
 deactivate the environment (Windows 10):
 
 
-deactivate ML-for-InfoSec
+$ deactivate ML-for-InfoSec
 
 
 
